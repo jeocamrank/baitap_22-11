@@ -2,5 +2,4 @@
 
 # Auth
 
-Họ và tên: Lưu Đình Luyện
-21810310472
+Họ và tên: Nguyễn Thế Tùng - 21810310132 - D16CNPM4
